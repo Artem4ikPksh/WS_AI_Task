@@ -1,0 +1,18 @@
+[
+  {
+    "tokens": ["There", "is", "a", "dog", "in", "the", "yard", "."],
+    "ner_tags": [0, 0, 0, 1, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["The", "cat", "is", "sleeping", "on", "the", "sofa", "."],
+    "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["A", "brown", "bear", "is", "swimming", "."],
+    "ner_tags": [0, 1, 2, 0, 0, 0]
+  },
+  {
+    "tokens": ["The", "cow", "is", "eating", "hay", "."],
+    "ner_tags": [0, 1, 0, 0, 0, 0]
+  }
+]

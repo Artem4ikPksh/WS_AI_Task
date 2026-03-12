@@ -1,0 +1,42 @@
+[
+  {
+    "tokens": ["There", "is", "a", "cat", "in", "the", "picture", "."],
+    "ner_tags": [0, 0, 0, 1, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["A", "dog", "is", "running", "fast", "."],
+    "ner_tags": [0, 1, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["The", "cow", "is", "standing", "in", "the", "field", "."],
+    "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "see", "a", "polar", "bear", "near", "the", "river", "."],
+    "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Birds", "are", "flying", "over", "the", "forest", "."],
+    "ner_tags": [1, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["A", "horse", "is", "eating", "grass", "."],
+    "ner_tags": [0, 1, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["The", "lion", "is", "sleeping", "."],
+    "ner_tags": [0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["An", "elephant", "is", "walking", "slowly", "."],
+    "ner_tags": [0, 1, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["The", "rabbit", "is", "hiding", "under", "the", "tree", "."],
+    "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["A", "tiger", "is", "roaring", "loudly", "."],
+    "ner_tags": [0, 1, 0, 0, 0, 0]
+  }
+]
