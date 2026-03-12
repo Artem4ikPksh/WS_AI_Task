@@ -1,0 +1,15 @@
+Cat
+Dog
+Cow
+Horse
+Lion
+Tiger
+Elephant
+Bear
+Bird
+Deer
+Dolphin
+Giraffe
+Kangaroo
+Panda
+Zebra
